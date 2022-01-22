@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "label": "Группа 1",
+            "govType": "Иное",
+            "employeeNumbers": 2,
+            "groupType": "Alpha"
+        },
+        {
+            "id": 2,
+            "label": "Группа 2",
+            "govType": "Управление",
+            "employeeNumbers": 6,
+            "groupType": "Beta"
+        },
+        {
+            "id": 3,
+            "label": "Группа 3",
+            "govType": "Отдел",
+            "employeeNumbers": 10,
+            "groupType": "Beta"
+        }
+        ,
+        {
+            "id": 4,
+            "label": "Группа 4",
+            "govType": "Отдел",
+            "employeeNumbers": 3,
+            "groupType": "Sigma"
+        }
+    ]
+}
